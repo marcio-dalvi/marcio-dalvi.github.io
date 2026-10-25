@@ -1,0 +1,1438 @@
+{
+  "schema_version": 2,
+  "mode": "observacao",
+  "collected_at": "2026-10-25T14:13:34.831742+00:00",
+  "coverage": {
+    "youtube_videos": 17,
+    "instagram_reels": 7,
+    "youtube_analytics_status": "ok",
+    "youtube_analytics_rows": 0,
+    "comments_exported": false,
+    "historical_snapshots": 3,
+    "youtube_status": "ok",
+    "instagram_status": "ok",
+    "instagram_metrics_partial": 0,
+    "instagram_comments_empty_with_count": 1,
+    "pagination_limited": false,
+    "queue_auto_adjustment": false,
+    "queue_feedback_enabled": false,
+    "eligible_feedback_categories": 0,
+    "collection_mode": "manual"
+  },
+  "videos": [
+    {
+      "id": "17953432296289454",
+      "platform": "instagram",
+      "title": "Por que sua automação pode rodar de novo no horário de verão",
+      "category": "Outros / tecnologia",
+      "published_at": "2026-10-24T20:02:14+0000",
+      "url": "https://www.instagram.com/reel/De48XCLAgw0/",
+      "views": 22,
+      "reach": 16,
+      "likes": 0,
+      "comments": 0,
+      "shares": 1,
+      "saves": 0,
+      "watch_seconds": 4.475,
+      "retention": null,
+      "duration": 51.0,
+      "flags": [],
+      "analytics_period": null,
+      "period_metrics": null,
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 18.19,
+      "age_group": "6–24h",
+      "like_rate": 0.0,
+      "share_rate": 6.25,
+      "save_rate": 0.0,
+      "watch_ratio": 8.77,
+      "stale": false,
+      "growth": {
+        "views_delta": 5,
+        "hours": 1.592,
+        "views_per_hour": 3.14,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": true,
+      "diagnosis": [
+        {
+          "kind": "wait",
+          "label": "Distribuição inicial",
+          "action": "Reavaliar após 24h; comparar na mesma janela de idade."
+        }
+      ],
+      "comparison": {
+        "peers": 5,
+        "group": "6–24h",
+        "median_views": 66,
+        "relative_views": 0.33,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "17984882571090088",
+      "platform": "instagram",
+      "title": "Carros antigos e atuais: o que mudou além da tela",
+      "category": "Mobilidade",
+      "published_at": "2026-10-24T18:15:45+0000",
+      "url": "https://www.instagram.com/reel/De4wM1Wj5-w/",
+      "views": 392,
+      "reach": 324,
+      "likes": 9,
+      "comments": 1,
+      "shares": 0,
+      "saves": 1,
+      "watch_seconds": 9.485,
+      "retention": null,
+      "duration": 51.0,
+      "flags": [
+        "Há contagem de comentários, mas nenhum texto retornado na consulta; cobertura ainda não confirmada."
+      ],
+      "analytics_period": null,
+      "period_metrics": null,
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 19.96,
+      "age_group": "6–24h",
+      "like_rate": 2.3,
+      "share_rate": 0.0,
+      "save_rate": 0.31,
+      "watch_ratio": 18.6,
+      "stale": false,
+      "growth": {
+        "views_delta": 53,
+        "hours": 1.592,
+        "views_per_hour": 33.28,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": true,
+      "diagnosis": [
+        {
+          "kind": "wait",
+          "label": "Distribuição inicial",
+          "action": "Reavaliar após 24h; comparar na mesma janela de idade."
+        },
+        {
+          "kind": "test",
+          "label": "Testar uma abertura mais concreta",
+          "action": "Média assistida equivale a 18.6% da duração. Isso não localiza o abandono; testar novo gancho e medir."
+        }
+      ],
+      "comparison": {
+        "peers": 5,
+        "group": "6–24h",
+        "median_views": 66,
+        "relative_views": 5.94,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "18037148273846633",
+      "platform": "instagram",
+      "title": "Indução: a panela gera calor, mas o vidro também esquenta",
+      "category": "Casa",
+      "published_at": "2026-10-25T05:03:13+0000",
+      "url": "https://www.instagram.com/reel/De56UMLCXMp/",
+      "views": 113,
+      "reach": 91,
+      "likes": 2,
+      "comments": 0,
+      "shares": 2,
+      "saves": 0,
+      "watch_seconds": 9.064,
+      "retention": null,
+      "duration": 42.0,
+      "flags": [],
+      "analytics_period": null,
+      "period_metrics": null,
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 9.17,
+      "age_group": "6–24h",
+      "like_rate": 1.77,
+      "share_rate": 2.2,
+      "save_rate": 0.0,
+      "watch_ratio": 21.58,
+      "stale": false,
+      "growth": {
+        "views_delta": 9,
+        "hours": 1.592,
+        "views_per_hour": 5.65,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": true,
+      "diagnosis": [
+        {
+          "kind": "wait",
+          "label": "Distribuição inicial",
+          "action": "Reavaliar após 24h; comparar na mesma janela de idade."
+        },
+        {
+          "kind": "opportunity",
+          "label": "Sinal de compartilhamento",
+          "action": "2 compartilhamentos / 91 contas alcançadas (2.2%). Testar um mecanismo relacionado."
+        }
+      ],
+      "comparison": {
+        "peers": 5,
+        "group": "6–24h",
+        "median_views": 66,
+        "relative_views": 1.71,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "18105547208576826",
+      "platform": "instagram",
+      "title": "Por que os vidros do carro podem quebrar diferente?",
+      "category": "Mobilidade",
+      "published_at": "2026-10-25T05:01:55+0000",
+      "url": "https://www.instagram.com/reel/De56KcmApoW/",
+      "views": 66,
+      "reach": 58,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "watch_seconds": 5.231,
+      "retention": null,
+      "duration": 45.0,
+      "flags": [],
+      "analytics_period": null,
+      "period_metrics": null,
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 9.19,
+      "age_group": "6–24h",
+      "like_rate": 0.0,
+      "share_rate": 0.0,
+      "save_rate": 0.0,
+      "watch_ratio": 11.62,
+      "stale": false,
+      "growth": {
+        "views_delta": 22,
+        "hours": 1.592,
+        "views_per_hour": 13.82,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": true,
+      "diagnosis": [
+        {
+          "kind": "wait",
+          "label": "Distribuição inicial",
+          "action": "Reavaliar após 24h; comparar na mesma janela de idade."
+        }
+      ],
+      "comparison": {
+        "peers": 5,
+        "group": "6–24h",
+        "median_views": 66,
+        "relative_views": 1.0,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "18111712997128408",
+      "platform": "instagram",
+      "title": "Tecido que repele água também é impermeável?",
+      "category": "Materiais",
+      "published_at": "2026-10-25T11:31:53+0000",
+      "url": "https://www.instagram.com/reel/De6myH7iB41/",
+      "views": 63,
+      "reach": 45,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "watch_seconds": 7.922,
+      "retention": null,
+      "duration": 50.0,
+      "flags": [],
+      "analytics_period": null,
+      "period_metrics": null,
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 2.69,
+      "age_group": "0–6h",
+      "like_rate": 3.17,
+      "share_rate": 0.0,
+      "save_rate": 0.0,
+      "watch_ratio": 15.84,
+      "stale": false,
+      "growth": {
+        "views_delta": 32,
+        "hours": 1.592,
+        "views_per_hour": 20.1,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": true,
+      "diagnosis": [
+        {
+          "kind": "wait",
+          "label": "Distribuição inicial",
+          "action": "Reavaliar após 24h; comparar na mesma janela de idade."
+        }
+      ],
+      "comparison": {
+        "peers": 2,
+        "group": "0–6h",
+        "median_views": 354.0,
+        "relative_views": 0.18,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "18136751125653779",
+      "platform": "instagram",
+      "title": "Como a lata segura o gás? O segredo está na vedação",
+      "category": "Alimentos",
+      "published_at": "2026-10-25T08:32:07+0000",
+      "url": "https://www.instagram.com/reel/De6SM25Air8/",
+      "views": 645,
+      "reach": 492,
+      "likes": 8,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "watch_seconds": 14.352,
+      "retention": null,
+      "duration": 44.0,
+      "flags": [],
+      "analytics_period": null,
+      "period_metrics": null,
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 5.69,
+      "age_group": "0–6h",
+      "like_rate": 1.24,
+      "share_rate": 0.0,
+      "save_rate": 0.0,
+      "watch_ratio": 32.62,
+      "stale": false,
+      "growth": {
+        "views_delta": 234,
+        "hours": 1.592,
+        "views_per_hour": 146.95,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": true,
+      "diagnosis": [
+        {
+          "kind": "wait",
+          "label": "Distribuição inicial",
+          "action": "Reavaliar após 24h; comparar na mesma janela de idade."
+        }
+      ],
+      "comparison": {
+        "peers": 2,
+        "group": "0–6h",
+        "median_views": 354.0,
+        "relative_views": 1.82,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "18218920549356604",
+      "platform": "instagram",
+      "title": "Veja o que seu script apagaria antes de executar",
+      "category": "Outros / tecnologia",
+      "published_at": "2026-10-24T17:27:23+0000",
+      "url": "https://www.instagram.com/reel/De4qqqijzdx/",
+      "views": 34,
+      "reach": 26,
+      "likes": 2,
+      "comments": 0,
+      "shares": 1,
+      "saves": 0,
+      "watch_seconds": 249.485,
+      "retention": null,
+      "duration": 52.0,
+      "flags": [
+        "Tempo médio maior que duração: validar definição/repetições antes de usar para decisão."
+      ],
+      "analytics_period": null,
+      "period_metrics": null,
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 20.77,
+      "age_group": "6–24h",
+      "like_rate": 5.88,
+      "share_rate": 3.85,
+      "save_rate": 0.0,
+      "watch_ratio": 479.78,
+      "stale": false,
+      "growth": {
+        "views_delta": 2,
+        "hours": 1.592,
+        "views_per_hour": 1.26,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": false,
+      "diagnosis": [
+        {
+          "kind": "wait",
+          "label": "Distribuição inicial",
+          "action": "Reavaliar após 24h; comparar na mesma janela de idade."
+        }
+      ],
+      "comparison": {
+        "peers": 5,
+        "group": "6–24h",
+        "median_views": 66,
+        "relative_views": 0.52,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "1V4vrvH3vto",
+      "platform": "youtube",
+      "title": "Tecido que repele água também é impermeável?",
+      "category": "Materiais",
+      "published_at": "2026-10-25T11:31:04Z",
+      "url": "https://www.youtube.com/watch?v=1V4vrvH3vto",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "shares": null,
+      "saves": null,
+      "reach": null,
+      "watch_seconds": null,
+      "retention": null,
+      "analytics_period": {
+        "start": "2026-09-27",
+        "end": "2026-10-24"
+      },
+      "period_metrics": null,
+      "duration": 50.0,
+      "flags": [],
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 2.71,
+      "age_group": "0–6h",
+      "like_rate": 0.0,
+      "share_rate": null,
+      "save_rate": null,
+      "watch_ratio": null,
+      "stale": false,
+      "growth": {
+        "views_delta": 0,
+        "hours": 1.592,
+        "views_per_hour": 0.0,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": false,
+      "diagnosis": [
+        {
+          "kind": "wait",
+          "label": "Distribuição inicial",
+          "action": "Reavaliar após 24h; comparar na mesma janela de idade."
+        }
+      ],
+      "comparison": {
+        "peers": 2,
+        "group": "0–6h",
+        "median_views": 468.0,
+        "relative_views": 0.0,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "EBiEkjsTSzY",
+      "platform": "youtube",
+      "title": "Por que temperature zero não garante respostas iguais",
+      "category": "Outros / tecnologia",
+      "published_at": "2026-10-24T11:01:37Z",
+      "url": "https://www.youtube.com/watch?v=EBiEkjsTSzY",
+      "views": 26,
+      "likes": 1,
+      "comments": 0,
+      "shares": null,
+      "saves": null,
+      "reach": null,
+      "watch_seconds": null,
+      "retention": null,
+      "analytics_period": {
+        "start": "2026-09-27",
+        "end": "2026-10-24"
+      },
+      "period_metrics": null,
+      "duration": 50.0,
+      "flags": [],
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 27.2,
+      "age_group": "1–3 dias",
+      "like_rate": 3.85,
+      "share_rate": null,
+      "save_rate": null,
+      "watch_ratio": null,
+      "stale": false,
+      "growth": {
+        "views_delta": 0,
+        "hours": 1.592,
+        "views_per_hour": 0.0,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": false,
+      "diagnosis": [],
+      "comparison": {
+        "peers": 10,
+        "group": "1–3 dias",
+        "median_views": 23.5,
+        "relative_views": 1.11,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "JBAeekrpkrs",
+      "platform": "youtube",
+      "title": "Indução: a panela gera calor, mas o vidro também esquenta",
+      "category": "Casa",
+      "published_at": "2026-10-25T05:03:09Z",
+      "url": "https://www.youtube.com/watch?v=JBAeekrpkrs",
+      "views": 340,
+      "likes": 14,
+      "comments": 0,
+      "shares": null,
+      "saves": null,
+      "reach": null,
+      "watch_seconds": null,
+      "retention": null,
+      "analytics_period": {
+        "start": "2026-09-27",
+        "end": "2026-10-24"
+      },
+      "period_metrics": null,
+      "duration": 42.0,
+      "flags": [],
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 9.17,
+      "age_group": "6–24h",
+      "like_rate": 4.12,
+      "share_rate": null,
+      "save_rate": null,
+      "watch_ratio": null,
+      "stale": false,
+      "growth": {
+        "views_delta": 57,
+        "hours": 1.592,
+        "views_per_hour": 35.8,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": false,
+      "diagnosis": [
+        {
+          "kind": "wait",
+          "label": "Distribuição inicial",
+          "action": "Reavaliar após 24h; comparar na mesma janela de idade."
+        }
+      ],
+      "comparison": {
+        "peers": 5,
+        "group": "6–24h",
+        "median_views": 2,
+        "relative_views": 170.0,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "K73NJqCDio0",
+      "platform": "youtube",
+      "title": "Como configurar timeout numa requisição Python com Requests",
+      "category": "Outros / tecnologia",
+      "published_at": "2026-10-23T20:01:13Z",
+      "url": "https://www.youtube.com/watch?v=K73NJqCDio0",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "shares": null,
+      "saves": null,
+      "reach": null,
+      "watch_seconds": null,
+      "retention": null,
+      "analytics_period": {
+        "start": "2026-09-27",
+        "end": "2026-10-24"
+      },
+      "period_metrics": null,
+      "duration": 48.0,
+      "flags": [],
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 42.21,
+      "age_group": "1–3 dias",
+      "like_rate": 0.0,
+      "share_rate": null,
+      "save_rate": null,
+      "watch_ratio": null,
+      "stale": false,
+      "growth": {
+        "views_delta": 0,
+        "hours": 1.592,
+        "views_per_hour": 0.0,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": false,
+      "diagnosis": [],
+      "comparison": {
+        "peers": 10,
+        "group": "1–3 dias",
+        "median_views": 23.5,
+        "relative_views": 0.04,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "KyK5LoPApY4",
+      "platform": "youtube",
+      "title": "Por que os vidros do carro podem quebrar diferente?",
+      "category": "Mobilidade",
+      "published_at": "2026-10-25T05:01:41Z",
+      "url": "https://www.youtube.com/watch?v=KyK5LoPApY4",
+      "views": 259,
+      "likes": 9,
+      "comments": 0,
+      "shares": null,
+      "saves": null,
+      "reach": null,
+      "watch_seconds": null,
+      "retention": null,
+      "analytics_period": {
+        "start": "2026-09-27",
+        "end": "2026-10-24"
+      },
+      "period_metrics": null,
+      "duration": 45.0,
+      "flags": [],
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 9.2,
+      "age_group": "6–24h",
+      "like_rate": 3.47,
+      "share_rate": null,
+      "save_rate": null,
+      "watch_ratio": null,
+      "stale": false,
+      "growth": {
+        "views_delta": 41,
+        "hours": 1.592,
+        "views_per_hour": 25.75,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": false,
+      "diagnosis": [
+        {
+          "kind": "wait",
+          "label": "Distribuição inicial",
+          "action": "Reavaliar após 24h; comparar na mesma janela de idade."
+        }
+      ],
+      "comparison": {
+        "peers": 5,
+        "group": "6–24h",
+        "median_views": 2,
+        "relative_views": 129.5,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "LTmvXd44HDQ",
+      "platform": "youtube",
+      "title": "Quando texto vira comando: como passar argumentos com segurança",
+      "category": "Outros / tecnologia",
+      "published_at": "2026-10-23T23:01:42Z",
+      "url": "https://www.youtube.com/watch?v=LTmvXd44HDQ",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "shares": null,
+      "saves": null,
+      "reach": null,
+      "watch_seconds": null,
+      "retention": null,
+      "analytics_period": {
+        "start": "2026-09-27",
+        "end": "2026-10-24"
+      },
+      "period_metrics": null,
+      "duration": 51.0,
+      "flags": [],
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 39.2,
+      "age_group": "1–3 dias",
+      "like_rate": 0.0,
+      "share_rate": null,
+      "save_rate": null,
+      "watch_ratio": null,
+      "stale": false,
+      "growth": {
+        "views_delta": 1,
+        "hours": 1.592,
+        "views_per_hour": 0.63,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": false,
+      "diagnosis": [],
+      "comparison": {
+        "peers": 10,
+        "group": "1–3 dias",
+        "median_views": 23.5,
+        "relative_views": 0.04,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "QcIZSBu1YDA",
+      "platform": "youtube",
+      "title": "Teste passou, banco falhou: unitário vs. integração",
+      "category": "Outros / tecnologia",
+      "published_at": "2026-10-24T14:01:35Z",
+      "url": "https://www.youtube.com/watch?v=QcIZSBu1YDA",
+      "views": 260,
+      "likes": 2,
+      "comments": 0,
+      "shares": null,
+      "saves": null,
+      "reach": null,
+      "watch_seconds": null,
+      "retention": null,
+      "analytics_period": {
+        "start": "2026-09-27",
+        "end": "2026-10-24"
+      },
+      "period_metrics": null,
+      "duration": 47.0,
+      "flags": [],
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 24.2,
+      "age_group": "1–3 dias",
+      "like_rate": 0.77,
+      "share_rate": null,
+      "save_rate": null,
+      "watch_ratio": null,
+      "stale": false,
+      "growth": {
+        "views_delta": 0,
+        "hours": 1.592,
+        "views_per_hour": 0.0,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": false,
+      "diagnosis": [],
+      "comparison": {
+        "peers": 10,
+        "group": "1–3 dias",
+        "median_views": 23.5,
+        "relative_views": 11.06,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "RRSyFUULKPc",
+      "platform": "youtube",
+      "title": "Por que a IA inventa respostas e como reduzir isso",
+      "category": "Outros / tecnologia",
+      "published_at": "2026-10-23T12:43:51Z",
+      "url": "https://www.youtube.com/watch?v=RRSyFUULKPc",
+      "views": 46,
+      "likes": 0,
+      "comments": 0,
+      "shares": null,
+      "saves": null,
+      "reach": null,
+      "watch_seconds": null,
+      "retention": null,
+      "analytics_period": {
+        "start": "2026-09-27",
+        "end": "2026-10-24"
+      },
+      "period_metrics": null,
+      "duration": 55.0,
+      "flags": [],
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 49.5,
+      "age_group": "1–3 dias",
+      "like_rate": 0.0,
+      "share_rate": null,
+      "save_rate": null,
+      "watch_ratio": null,
+      "stale": false,
+      "growth": {
+        "views_delta": 1,
+        "hours": 1.592,
+        "views_per_hour": 0.63,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": false,
+      "diagnosis": [],
+      "comparison": {
+        "peers": 10,
+        "group": "1–3 dias",
+        "median_views": 23.5,
+        "relative_views": 1.96,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "S4KI9iD4CIc",
+      "platform": "youtube",
+      "title": "Carros antigos e atuais: o que mudou além da tela",
+      "category": "Mobilidade",
+      "published_at": "2026-10-24T18:15:32Z",
+      "url": "https://www.youtube.com/watch?v=S4KI9iD4CIc",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "shares": null,
+      "saves": null,
+      "reach": null,
+      "watch_seconds": null,
+      "retention": null,
+      "analytics_period": {
+        "start": "2026-09-27",
+        "end": "2026-10-24"
+      },
+      "period_metrics": null,
+      "duration": 51.0,
+      "flags": [],
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 19.97,
+      "age_group": "6–24h",
+      "like_rate": 0.0,
+      "share_rate": null,
+      "save_rate": null,
+      "watch_ratio": null,
+      "stale": false,
+      "growth": {
+        "views_delta": 0,
+        "hours": 1.592,
+        "views_per_hour": 0.0,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": false,
+      "diagnosis": [
+        {
+          "kind": "wait",
+          "label": "Distribuição inicial",
+          "action": "Reavaliar após 24h; comparar na mesma janela de idade."
+        }
+      ],
+      "comparison": {
+        "peers": 5,
+        "group": "6–24h",
+        "median_views": 2,
+        "relative_views": 1.0,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "Z-4hV-yButo",
+      "platform": "youtube",
+      "title": "Como multinacionais usam a AWS e geram valor para a Amazon",
+      "category": "Outros / tecnologia",
+      "published_at": "2026-10-23T20:42:05Z",
+      "url": "https://www.youtube.com/watch?v=Z-4hV-yButo",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "shares": null,
+      "saves": null,
+      "reach": null,
+      "watch_seconds": null,
+      "retention": null,
+      "analytics_period": {
+        "start": "2026-09-27",
+        "end": "2026-10-24"
+      },
+      "period_metrics": null,
+      "duration": 54.0,
+      "flags": [],
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 41.52,
+      "age_group": "1–3 dias",
+      "like_rate": 0.0,
+      "share_rate": null,
+      "save_rate": null,
+      "watch_ratio": null,
+      "stale": false,
+      "growth": {
+        "views_delta": 0,
+        "hours": 1.592,
+        "views_per_hour": 0.0,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": false,
+      "diagnosis": [],
+      "comparison": {
+        "peers": 10,
+        "group": "1–3 dias",
+        "median_views": 23.5,
+        "relative_views": 0.04,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "aKTkSW8uG18",
+      "platform": "youtube",
+      "title": "Seu agente precisa ler. Por que ele pode apagar?",
+      "category": "Outros / tecnologia",
+      "published_at": "2026-10-23T17:01:13Z",
+      "url": "https://www.youtube.com/watch?v=aKTkSW8uG18",
+      "views": 24,
+      "likes": 1,
+      "comments": 0,
+      "shares": null,
+      "saves": null,
+      "reach": null,
+      "watch_seconds": null,
+      "retention": null,
+      "analytics_period": {
+        "start": "2026-09-27",
+        "end": "2026-10-24"
+      },
+      "period_metrics": null,
+      "duration": 49.0,
+      "flags": [],
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 45.21,
+      "age_group": "1–3 dias",
+      "like_rate": 4.17,
+      "share_rate": null,
+      "save_rate": null,
+      "watch_ratio": null,
+      "stale": false,
+      "growth": {
+        "views_delta": 0,
+        "hours": 1.592,
+        "views_per_hour": 0.0,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": false,
+      "diagnosis": [],
+      "comparison": {
+        "peers": 10,
+        "group": "1–3 dias",
+        "median_views": 23.5,
+        "relative_views": 1.02,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "j4-sbEVHGPw",
+      "platform": "youtube",
+      "title": "Álcool e tecnologia: o que sabemos sobre o vício entre jovens",
+      "category": "Outros / tecnologia",
+      "published_at": "2026-10-24T00:15:43Z",
+      "url": "https://www.youtube.com/watch?v=j4-sbEVHGPw",
+      "views": 197,
+      "likes": 0,
+      "comments": 0,
+      "shares": null,
+      "saves": null,
+      "reach": null,
+      "watch_seconds": null,
+      "retention": null,
+      "analytics_period": {
+        "start": "2026-09-27",
+        "end": "2026-10-24"
+      },
+      "period_metrics": null,
+      "duration": 54.0,
+      "flags": [],
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 37.96,
+      "age_group": "1–3 dias",
+      "like_rate": 0.0,
+      "share_rate": null,
+      "save_rate": null,
+      "watch_ratio": null,
+      "stale": false,
+      "growth": {
+        "views_delta": 0,
+        "hours": 1.592,
+        "views_per_hour": 0.0,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": false,
+      "diagnosis": [],
+      "comparison": {
+        "peers": 10,
+        "group": "1–3 dias",
+        "median_views": 23.5,
+        "relative_views": 8.38,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "jSFoQ-y2Dtk",
+      "platform": "youtube",
+      "title": "Como a lata segura o gás? O segredo está na vedação",
+      "category": "Alimentos",
+      "published_at": "2026-10-25T08:31:10Z",
+      "url": "https://www.youtube.com/watch?v=jSFoQ-y2Dtk",
+      "views": 935,
+      "likes": 19,
+      "comments": 0,
+      "shares": null,
+      "saves": null,
+      "reach": null,
+      "watch_seconds": null,
+      "retention": null,
+      "analytics_period": {
+        "start": "2026-09-27",
+        "end": "2026-10-24"
+      },
+      "period_metrics": null,
+      "duration": 44.0,
+      "flags": [],
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 5.71,
+      "age_group": "0–6h",
+      "like_rate": 2.03,
+      "share_rate": null,
+      "save_rate": null,
+      "watch_ratio": null,
+      "stale": false,
+      "growth": {
+        "views_delta": 238,
+        "hours": 1.592,
+        "views_per_hour": 149.47,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": false,
+      "diagnosis": [
+        {
+          "kind": "wait",
+          "label": "Distribuição inicial",
+          "action": "Reavaliar após 24h; comparar na mesma janela de idade."
+        }
+      ],
+      "comparison": {
+        "peers": 2,
+        "group": "0–6h",
+        "median_views": 468.0,
+        "relative_views": 2.0,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "lm6HH4HaZ5A",
+      "platform": "youtube",
+      "title": "Por que sua automação pode rodar de novo no horário de verão",
+      "category": "Outros / tecnologia",
+      "published_at": "2026-10-24T20:01:43Z",
+      "url": "https://www.youtube.com/watch?v=lm6HH4HaZ5A",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "shares": null,
+      "saves": null,
+      "reach": null,
+      "watch_seconds": null,
+      "retention": null,
+      "analytics_period": {
+        "start": "2026-09-27",
+        "end": "2026-10-24"
+      },
+      "period_metrics": null,
+      "duration": 51.0,
+      "flags": [],
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 18.2,
+      "age_group": "6–24h",
+      "like_rate": 0.0,
+      "share_rate": null,
+      "save_rate": null,
+      "watch_ratio": null,
+      "stale": false,
+      "growth": {
+        "views_delta": 0,
+        "hours": 1.592,
+        "views_per_hour": 0.0,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": false,
+      "diagnosis": [
+        {
+          "kind": "wait",
+          "label": "Distribuição inicial",
+          "action": "Reavaliar após 24h; comparar na mesma janela de idade."
+        }
+      ],
+      "comparison": {
+        "peers": 5,
+        "group": "6–24h",
+        "median_views": 2,
+        "relative_views": 1.0,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "mjdeqk1v8EQ",
+      "platform": "youtube",
+      "title": "Polling ou webhook: quando consultar e quando receber um aviso",
+      "category": "Outros / tecnologia",
+      "published_at": "2026-10-23T14:01:15Z",
+      "url": "https://www.youtube.com/watch?v=mjdeqk1v8EQ",
+      "views": 23,
+      "likes": 0,
+      "comments": 0,
+      "shares": null,
+      "saves": null,
+      "reach": null,
+      "watch_seconds": null,
+      "retention": null,
+      "analytics_period": {
+        "start": "2026-09-27",
+        "end": "2026-10-24"
+      },
+      "period_metrics": null,
+      "duration": 53.0,
+      "flags": [],
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 48.21,
+      "age_group": "1–3 dias",
+      "like_rate": 0.0,
+      "share_rate": null,
+      "save_rate": null,
+      "watch_ratio": null,
+      "stale": false,
+      "growth": {
+        "views_delta": 0,
+        "hours": 1.592,
+        "views_per_hour": 0.0,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": false,
+      "diagnosis": [],
+      "comparison": {
+        "peers": 10,
+        "group": "1–3 dias",
+        "median_views": 23.5,
+        "relative_views": 0.98,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "mnyXRdF8ck8",
+      "platform": "youtube",
+      "title": "Veja o que seu script apagaria antes de executar",
+      "category": "Outros / tecnologia",
+      "published_at": "2026-10-24T17:01:51Z",
+      "url": "https://www.youtube.com/watch?v=mnyXRdF8ck8",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "shares": null,
+      "saves": null,
+      "reach": null,
+      "watch_seconds": null,
+      "retention": null,
+      "analytics_period": {
+        "start": "2026-09-27",
+        "end": "2026-10-24"
+      },
+      "period_metrics": null,
+      "duration": 52.0,
+      "flags": [],
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 21.2,
+      "age_group": "6–24h",
+      "like_rate": 0.0,
+      "share_rate": null,
+      "save_rate": null,
+      "watch_ratio": null,
+      "stale": false,
+      "growth": {
+        "views_delta": 0,
+        "hours": 1.592,
+        "views_per_hour": 0.0,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": false,
+      "diagnosis": [
+        {
+          "kind": "wait",
+          "label": "Distribuição inicial",
+          "action": "Reavaliar após 24h; comparar na mesma janela de idade."
+        }
+      ],
+      "comparison": {
+        "peers": 5,
+        "group": "6–24h",
+        "median_views": 2,
+        "relative_views": 0.5,
+        "status": "exploratory"
+      }
+    },
+    {
+      "id": "wwkz2CamMn4",
+      "platform": "youtube",
+      "title": "Lambda Managed Instances ou padrão? Concorrência, custo e escala",
+      "category": "Outros / tecnologia",
+      "published_at": "2026-10-23T18:26:56Z",
+      "url": "https://www.youtube.com/watch?v=wwkz2CamMn4",
+      "views": 3,
+      "likes": 0,
+      "comments": 0,
+      "shares": null,
+      "saves": null,
+      "reach": null,
+      "watch_seconds": null,
+      "retention": null,
+      "analytics_period": {
+        "start": "2026-09-27",
+        "end": "2026-10-24"
+      },
+      "period_metrics": null,
+      "duration": 45.0,
+      "flags": [],
+      "observed_at": "2026-10-25T14:13:34.831742+00:00",
+      "age_hours": 43.78,
+      "age_group": "1–3 dias",
+      "like_rate": 0.0,
+      "share_rate": null,
+      "save_rate": null,
+      "watch_ratio": null,
+      "stale": false,
+      "growth": {
+        "views_delta": 0,
+        "hours": 1.592,
+        "views_per_hour": 0.0,
+        "from": "2026-10-25T12:38:02.452058+00:00",
+        "to": "2026-10-25T14:13:34.831742+00:00",
+        "counter_correction": false
+      },
+      "watch_ratio_valid": false,
+      "diagnosis": [],
+      "comparison": {
+        "peers": 10,
+        "group": "1–3 dias",
+        "median_views": 23.5,
+        "relative_views": 0.13,
+        "status": "exploratory"
+      }
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "Testar uma abertura mais concreta",
+      "platform": "instagram",
+      "evidence": "Média assistida equivale a 18.6% da duração. Isso não localiza o abandono; testar novo gancho e medir.",
+      "confidence": "Baixa · hipótese para teste",
+      "action": "Criar experimento com uma variável; acompanhar uma publicação de teste.",
+      "reason": "Sinal observacional, sem promessa de efeito causal.",
+      "evidence_ids": [
+        "17984882571090088"
+      ],
+      "video_title": "Carros antigos e atuais: o que mudou além da tela",
+      "category": "Mobilidade"
+    },
+    {
+      "title": "Sinal de compartilhamento",
+      "platform": "instagram",
+      "evidence": "2 compartilhamentos / 91 contas alcançadas (2.2%). Testar um mecanismo relacionado.",
+      "confidence": "Baixa · hipótese para teste",
+      "action": "Criar experimento com uma variável; acompanhar uma publicação de teste.",
+      "reason": "Sinal observacional, sem promessa de efeito causal.",
+      "evidence_ids": [
+        "18037148273846633"
+      ],
+      "video_title": "Indução: a panela gera calor, mas o vidro também esquenta",
+      "category": "Casa"
+    },
+    {
+      "title": "Explorar alimentos",
+      "platform": "youtube",
+      "evidence": "“Como a lata segura o gás? O segredo está na vedação”: 935 views; faixa de idade 0–6h, 2 publicações na faixa.",
+      "confidence": "Baixa · sinal exploratório",
+      "action": "Pesquisar outra curiosidade do mesmo universo e comparar nas primeiras 24h.",
+      "reason": "Contador, amostra e distribuição não provam preferência consolidada.",
+      "evidence_ids": [
+        "jSFoQ-y2Dtk"
+      ],
+      "category": "Alimentos"
+    },
+    {
+      "title": "Explorar alimentos",
+      "platform": "instagram",
+      "evidence": "“Como a lata segura o gás? O segredo está na vedação”: 645 views; faixa de idade 0–6h, 2 publicações na faixa.",
+      "confidence": "Baixa · sinal exploratório",
+      "action": "Pesquisar outra curiosidade do mesmo universo e comparar nas primeiras 24h.",
+      "reason": "Contador, amostra e distribuição não provam preferência consolidada.",
+      "evidence_ids": [
+        "18136751125653779"
+      ],
+      "category": "Alimentos"
+    }
+  ],
+  "ideas": [
+    {
+      "id": "b68b62e927cd",
+      "title": "Como um pneu consegue afastar água?",
+      "category": "Mobilidade",
+      "angle": "Explicar um mecanismo e sua limitação, sem conselho de condução.",
+      "why": "Média assistida equivale a 18.6% da duração. Isso não localiza o abandono; testar novo gancho e medir.",
+      "evidence_ids": [
+        "17984882571090088"
+      ],
+      "confidence": "Exploratório · pesquisar antes de produzir",
+      "hypothesis": "Um objeto familiar com mecanismo demonstrável pode gerar interesse; validar após publicar.",
+      "metric": "Compartilhamentos / alcance no Instagram; engajamento e retenção YT quando disponíveis.",
+      "brief": "Criar um short PT-BR investigando: Como um pneu consegue afastar água? Ângulo: Explicar um mecanismo e sua limitação, sem conselho de condução. Usar fontes verificáveis; mostrar um mecanismo por cena; entregar a resposta ao gancho; sem números ou benefícios não documentados. Rascunho, sem autorização de upload.",
+      "hooks": [
+        "Como um pneu consegue afastar água?",
+        "O detalhe por trás disso aparece quando você olha de perto.",
+        "Parece simples. O mecanismo por trás merece uma explicação."
+      ]
+    },
+    {
+      "id": "1e1d59484b19",
+      "title": "Como a geladeira tira calor de dentro?",
+      "category": "Casa",
+      "angle": "Uma transferência de calor com exemplo concreto.",
+      "why": "2 compartilhamentos / 91 contas alcançadas (2.2%). Testar um mecanismo relacionado.",
+      "evidence_ids": [
+        "18037148273846633"
+      ],
+      "confidence": "Exploratório · pesquisar antes de produzir",
+      "hypothesis": "Um objeto familiar com mecanismo demonstrável pode gerar interesse; validar após publicar.",
+      "metric": "Compartilhamentos / alcance no Instagram; engajamento e retenção YT quando disponíveis.",
+      "brief": "Criar um short PT-BR investigando: Como a geladeira tira calor de dentro? Ângulo: Uma transferência de calor com exemplo concreto. Usar fontes verificáveis; mostrar um mecanismo por cena; entregar a resposta ao gancho; sem números ou benefícios não documentados. Rascunho, sem autorização de upload.",
+      "hooks": [
+        "Como a geladeira tira calor de dentro?",
+        "O detalhe por trás disso aparece quando você olha de perto.",
+        "Parece simples. O mecanismo por trás merece uma explicação."
+      ]
+    },
+    {
+      "id": "103c5fa796f7",
+      "title": "Por que a embalagem de salgadinho parece cheia de ar?",
+      "category": "Alimentos",
+      "angle": "Investigar atmosfera da embalagem e proteção física, sem benefício de saúde.",
+      "why": "“Como a lata segura o gás? O segredo está na vedação”: 935 views; faixa de idade 0–6h, 2 publicações na faixa.",
+      "evidence_ids": [
+        "jSFoQ-y2Dtk"
+      ],
+      "confidence": "Exploratório · pesquisar antes de produzir",
+      "hypothesis": "Um objeto familiar com mecanismo demonstrável pode gerar interesse; validar após publicar.",
+      "metric": "Compartilhamentos / alcance no Instagram; engajamento e retenção YT quando disponíveis.",
+      "brief": "Criar um short PT-BR investigando: Por que a embalagem de salgadinho parece cheia de ar? Ângulo: Investigar atmosfera da embalagem e proteção física, sem benefício de saúde. Usar fontes verificáveis; mostrar um mecanismo por cena; entregar a resposta ao gancho; sem números ou benefícios não documentados. Rascunho, sem autorização de upload.",
+      "hooks": [
+        "Por que a embalagem de salgadinho parece cheia de ar?",
+        "O detalhe por trás disso aparece quando você olha de perto.",
+        "Parece simples. O mecanismo por trás merece uma explicação."
+      ]
+    },
+    {
+      "id": "a410d98860dc",
+      "title": "O que muda no café quando ele é descafeinado?",
+      "category": "Alimentos",
+      "angle": "Investigar um processo industrial sem alegações de saúde.",
+      "why": "“Como a lata segura o gás? O segredo está na vedação”: 645 views; faixa de idade 0–6h, 2 publicações na faixa.",
+      "evidence_ids": [
+        "18136751125653779"
+      ],
+      "confidence": "Exploratório · pesquisar antes de produzir",
+      "hypothesis": "Um objeto familiar com mecanismo demonstrável pode gerar interesse; validar após publicar.",
+      "metric": "Compartilhamentos / alcance no Instagram; engajamento e retenção YT quando disponíveis.",
+      "brief": "Criar um short PT-BR investigando: O que muda no café quando ele é descafeinado? Ângulo: Investigar um processo industrial sem alegações de saúde. Usar fontes verificáveis; mostrar um mecanismo por cena; entregar a resposta ao gancho; sem números ou benefícios não documentados. Rascunho, sem autorização de upload.",
+      "hooks": [
+        "O que muda no café quando ele é descafeinado?",
+        "O detalhe por trás disso aparece quando você olha de perto.",
+        "Parece simples. O mecanismo por trás merece uma explicação."
+      ]
+    }
+  ],
+  "comment_insights": {
+    "texts_analyzed": 0,
+    "videos_with_texts": 0,
+    "groups": [],
+    "method": "Regras de intenção; classificação revisável. Textos e autores não exportados.",
+    "api_comment_count": 1,
+    "coverage_status": "not_yet_proven"
+  },
+  "timeline": [
+    {
+      "at": "2026-10-25T12:18:58.520441+00:00",
+      "youtube": {
+        "views": 1742,
+        "publications": 17
+      },
+      "instagram": {
+        "views": 909,
+        "publications": 7
+      }
+    },
+    {
+      "at": "2026-10-25T12:38:02.452058+00:00",
+      "youtube": {
+        "views": 1784,
+        "publications": 17
+      },
+      "instagram": {
+        "views": 978,
+        "publications": 7
+      }
+    },
+    {
+      "at": "2026-10-25T14:13:34.831742+00:00",
+      "youtube": {
+        "views": 2122,
+        "publications": 17
+      },
+      "instagram": {
+        "views": 1335,
+        "publications": 7
+      }
+    }
+  ],
+  "methodology": {
+    "minimum_delta_minutes": 10,
+    "maximum_delta_hours": 24,
+    "age_bands": [
+      "0–6h",
+      "6–24h",
+      "1–3 dias",
+      "3–7 dias",
+      "Mais de 7 dias"
+    ],
+    "note": "Regras de diagnóstico e faixas de comparação são heurísticas revisáveis, não previsão de viralização."
+  }
+}
