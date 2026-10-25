@@ -1,23 +1,23 @@
 {
   "schema_version": 2,
   "mode": "observacao",
-  "collected_at": "2026-10-25T14:13:34.831742+00:00",
+  "collected_at": "2026-10-25T14:25:29.539365+00:00",
   "coverage": {
     "youtube_videos": 17,
     "instagram_reels": 7,
     "youtube_analytics_status": "ok",
     "youtube_analytics_rows": 0,
     "comments_exported": false,
-    "historical_snapshots": 3,
+    "historical_snapshots": 4,
     "youtube_status": "ok",
     "instagram_status": "ok",
     "instagram_metrics_partial": 0,
     "instagram_comments_empty_with_count": 1,
     "pagination_limited": false,
     "queue_auto_adjustment": false,
-    "queue_feedback_enabled": false,
+    "queue_feedback_enabled": true,
     "eligible_feedback_categories": 0,
-    "collection_mode": "manual"
+    "collection_mode": "scheduled_3h"
   },
   "videos": [
     {
@@ -28,31 +28,31 @@
       "published_at": "2026-10-24T20:02:14+0000",
       "url": "https://www.instagram.com/reel/De48XCLAgw0/",
       "views": 22,
-      "reach": 16,
+      "reach": 17,
       "likes": 0,
       "comments": 0,
       "shares": 1,
       "saves": 0,
-      "watch_seconds": 4.475,
+      "watch_seconds": 4.312,
       "retention": null,
       "duration": 51.0,
       "flags": [],
       "analytics_period": null,
       "period_metrics": null,
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 18.19,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 18.39,
       "age_group": "6–24h",
       "like_rate": 0.0,
-      "share_rate": 6.25,
+      "share_rate": 5.88,
       "save_rate": 0.0,
-      "watch_ratio": 8.77,
+      "watch_ratio": 8.45,
       "stale": false,
       "growth": {
-        "views_delta": 5,
-        "hours": 1.592,
-        "views_per_hour": 3.14,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "views_delta": 0,
+        "hours": 0.199,
+        "views_per_hour": 0.0,
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": true,
@@ -66,8 +66,8 @@
       "comparison": {
         "peers": 5,
         "group": "6–24h",
-        "median_views": 66,
-        "relative_views": 0.33,
+        "median_views": 68,
+        "relative_views": 0.32,
         "status": "exploratory"
       }
     },
@@ -78,13 +78,13 @@
       "category": "Mobilidade",
       "published_at": "2026-10-24T18:15:45+0000",
       "url": "https://www.instagram.com/reel/De4wM1Wj5-w/",
-      "views": 392,
-      "reach": 324,
-      "likes": 9,
+      "views": 395,
+      "reach": 329,
+      "likes": 10,
       "comments": 1,
       "shares": 0,
       "saves": 1,
-      "watch_seconds": 9.485,
+      "watch_seconds": 9.484,
       "retention": null,
       "duration": 51.0,
       "flags": [
@@ -92,20 +92,20 @@
       ],
       "analytics_period": null,
       "period_metrics": null,
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 19.96,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 20.16,
       "age_group": "6–24h",
-      "like_rate": 2.3,
+      "like_rate": 2.53,
       "share_rate": 0.0,
-      "save_rate": 0.31,
+      "save_rate": 0.3,
       "watch_ratio": 18.6,
       "stale": false,
       "growth": {
-        "views_delta": 53,
-        "hours": 1.592,
-        "views_per_hour": 33.28,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "views_delta": 3,
+        "hours": 0.199,
+        "views_per_hour": 15.11,
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": true,
@@ -124,8 +124,8 @@
       "comparison": {
         "peers": 5,
         "group": "6–24h",
-        "median_views": 66,
-        "relative_views": 5.94,
+        "median_views": 68,
+        "relative_views": 5.81,
         "status": "exploratory"
       }
     },
@@ -136,32 +136,32 @@
       "category": "Casa",
       "published_at": "2026-10-25T05:03:13+0000",
       "url": "https://www.instagram.com/reel/De56UMLCXMp/",
-      "views": 113,
-      "reach": 91,
+      "views": 114,
+      "reach": 93,
       "likes": 2,
       "comments": 0,
       "shares": 2,
       "saves": 0,
-      "watch_seconds": 9.064,
+      "watch_seconds": 8.99,
       "retention": null,
       "duration": 42.0,
       "flags": [],
       "analytics_period": null,
       "period_metrics": null,
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 9.17,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 9.37,
       "age_group": "6–24h",
-      "like_rate": 1.77,
-      "share_rate": 2.2,
+      "like_rate": 1.75,
+      "share_rate": 2.15,
       "save_rate": 0.0,
-      "watch_ratio": 21.58,
+      "watch_ratio": 21.4,
       "stale": false,
       "growth": {
-        "views_delta": 9,
-        "hours": 1.592,
-        "views_per_hour": 5.65,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "views_delta": 1,
+        "hours": 0.199,
+        "views_per_hour": 5.04,
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": true,
@@ -174,14 +174,14 @@
         {
           "kind": "opportunity",
           "label": "Sinal de compartilhamento",
-          "action": "2 compartilhamentos / 91 contas alcançadas (2.2%). Testar um mecanismo relacionado."
+          "action": "2 compartilhamentos / 93 contas alcançadas (2.15%). Testar um mecanismo relacionado."
         }
       ],
       "comparison": {
         "peers": 5,
         "group": "6–24h",
-        "median_views": 66,
-        "relative_views": 1.71,
+        "median_views": 68,
+        "relative_views": 1.68,
         "status": "exploratory"
       }
     },
@@ -192,32 +192,32 @@
       "category": "Mobilidade",
       "published_at": "2026-10-25T05:01:55+0000",
       "url": "https://www.instagram.com/reel/De56KcmApoW/",
-      "views": 66,
-      "reach": 58,
+      "views": 68,
+      "reach": 59,
       "likes": 0,
       "comments": 0,
       "shares": 0,
       "saves": 0,
-      "watch_seconds": 5.231,
+      "watch_seconds": 5.211,
       "retention": null,
       "duration": 45.0,
       "flags": [],
       "analytics_period": null,
       "period_metrics": null,
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 9.19,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 9.39,
       "age_group": "6–24h",
       "like_rate": 0.0,
       "share_rate": 0.0,
       "save_rate": 0.0,
-      "watch_ratio": 11.62,
+      "watch_ratio": 11.58,
       "stale": false,
       "growth": {
-        "views_delta": 22,
-        "hours": 1.592,
-        "views_per_hour": 13.82,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "views_delta": 2,
+        "hours": 0.199,
+        "views_per_hour": 10.07,
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": true,
@@ -231,7 +231,7 @@
       "comparison": {
         "peers": 5,
         "group": "6–24h",
-        "median_views": 66,
+        "median_views": 68,
         "relative_views": 1.0,
         "status": "exploratory"
       }
@@ -243,7 +243,7 @@
       "category": "Materiais",
       "published_at": "2026-10-25T11:31:53+0000",
       "url": "https://www.instagram.com/reel/De6myH7iB41/",
-      "views": 63,
+      "views": 80,
       "reach": 45,
       "likes": 2,
       "comments": 0,
@@ -255,20 +255,20 @@
       "flags": [],
       "analytics_period": null,
       "period_metrics": null,
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 2.69,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 2.89,
       "age_group": "0–6h",
-      "like_rate": 3.17,
+      "like_rate": 2.5,
       "share_rate": 0.0,
       "save_rate": 0.0,
       "watch_ratio": 15.84,
       "stale": false,
       "growth": {
-        "views_delta": 32,
-        "hours": 1.592,
-        "views_per_hour": 20.1,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "views_delta": 17,
+        "hours": 0.199,
+        "views_per_hour": 85.63,
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": true,
@@ -282,8 +282,8 @@
       "comparison": {
         "peers": 2,
         "group": "0–6h",
-        "median_views": 354.0,
-        "relative_views": 0.18,
+        "median_views": 387.0,
+        "relative_views": 0.21,
         "status": "exploratory"
       }
     },
@@ -294,32 +294,32 @@
       "category": "Alimentos",
       "published_at": "2026-10-25T08:32:07+0000",
       "url": "https://www.instagram.com/reel/De6SM25Air8/",
-      "views": 645,
-      "reach": 492,
-      "likes": 8,
+      "views": 694,
+      "reach": 515,
+      "likes": 10,
       "comments": 0,
       "shares": 0,
       "saves": 0,
-      "watch_seconds": 14.352,
+      "watch_seconds": 14.102,
       "retention": null,
       "duration": 44.0,
       "flags": [],
       "analytics_period": null,
       "period_metrics": null,
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 5.69,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 5.89,
       "age_group": "0–6h",
-      "like_rate": 1.24,
+      "like_rate": 1.44,
       "share_rate": 0.0,
       "save_rate": 0.0,
-      "watch_ratio": 32.62,
+      "watch_ratio": 32.05,
       "stale": false,
       "growth": {
-        "views_delta": 234,
-        "hours": 1.592,
-        "views_per_hour": 146.95,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "views_delta": 49,
+        "hours": 0.199,
+        "views_per_hour": 246.81,
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": true,
@@ -333,8 +333,8 @@
       "comparison": {
         "peers": 2,
         "group": "0–6h",
-        "median_views": 354.0,
-        "relative_views": 1.82,
+        "median_views": 387.0,
+        "relative_views": 1.79,
         "status": "exploratory"
       }
     },
@@ -359,8 +359,8 @@
       ],
       "analytics_period": null,
       "period_metrics": null,
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 20.77,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 20.97,
       "age_group": "6–24h",
       "like_rate": 5.88,
       "share_rate": 3.85,
@@ -368,11 +368,11 @@
       "watch_ratio": 479.78,
       "stale": false,
       "growth": {
-        "views_delta": 2,
-        "hours": 1.592,
-        "views_per_hour": 1.26,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "views_delta": 0,
+        "hours": 0.199,
+        "views_per_hour": 0.0,
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": false,
@@ -386,8 +386,8 @@
       "comparison": {
         "peers": 5,
         "group": "6–24h",
-        "median_views": 66,
-        "relative_views": 0.52,
+        "median_views": 68,
+        "relative_views": 0.5,
         "status": "exploratory"
       }
     },
@@ -413,8 +413,8 @@
       "period_metrics": null,
       "duration": 50.0,
       "flags": [],
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 2.71,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 2.91,
       "age_group": "0–6h",
       "like_rate": 0.0,
       "share_rate": null,
@@ -423,10 +423,10 @@
       "stale": false,
       "growth": {
         "views_delta": 0,
-        "hours": 1.592,
+        "hours": 0.199,
         "views_per_hour": 0.0,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": false,
@@ -440,7 +440,7 @@
       "comparison": {
         "peers": 2,
         "group": "0–6h",
-        "median_views": 468.0,
+        "median_views": 471.5,
         "relative_views": 0.0,
         "status": "exploratory"
       }
@@ -467,8 +467,8 @@
       "period_metrics": null,
       "duration": 50.0,
       "flags": [],
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 27.2,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 27.4,
       "age_group": "1–3 dias",
       "like_rate": 3.85,
       "share_rate": null,
@@ -477,10 +477,10 @@
       "stale": false,
       "growth": {
         "views_delta": 0,
-        "hours": 1.592,
+        "hours": 0.199,
         "views_per_hour": 0.0,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": false,
@@ -488,8 +488,8 @@
       "comparison": {
         "peers": 10,
         "group": "1–3 dias",
-        "median_views": 23.5,
-        "relative_views": 1.11,
+        "median_views": 24.5,
+        "relative_views": 1.06,
         "status": "exploratory"
       }
     },
@@ -500,7 +500,7 @@
       "category": "Casa",
       "published_at": "2026-10-25T05:03:09Z",
       "url": "https://www.youtube.com/watch?v=JBAeekrpkrs",
-      "views": 340,
+      "views": 348,
       "likes": 14,
       "comments": 0,
       "shares": null,
@@ -515,20 +515,20 @@
       "period_metrics": null,
       "duration": 42.0,
       "flags": [],
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 9.17,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 9.37,
       "age_group": "6–24h",
-      "like_rate": 4.12,
+      "like_rate": 4.02,
       "share_rate": null,
       "save_rate": null,
       "watch_ratio": null,
       "stale": false,
       "growth": {
-        "views_delta": 57,
-        "hours": 1.592,
-        "views_per_hour": 35.8,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "views_delta": 8,
+        "hours": 0.199,
+        "views_per_hour": 40.3,
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": false,
@@ -543,7 +543,7 @@
         "peers": 5,
         "group": "6–24h",
         "median_views": 2,
-        "relative_views": 170.0,
+        "relative_views": 174.0,
         "status": "exploratory"
       }
     },
@@ -569,8 +569,8 @@
       "period_metrics": null,
       "duration": 48.0,
       "flags": [],
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 42.21,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 42.4,
       "age_group": "1–3 dias",
       "like_rate": 0.0,
       "share_rate": null,
@@ -579,10 +579,10 @@
       "stale": false,
       "growth": {
         "views_delta": 0,
-        "hours": 1.592,
+        "hours": 0.199,
         "views_per_hour": 0.0,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": false,
@@ -590,7 +590,7 @@
       "comparison": {
         "peers": 10,
         "group": "1–3 dias",
-        "median_views": 23.5,
+        "median_views": 24.5,
         "relative_views": 0.04,
         "status": "exploratory"
       }
@@ -617,8 +617,8 @@
       "period_metrics": null,
       "duration": 45.0,
       "flags": [],
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 9.2,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 9.4,
       "age_group": "6–24h",
       "like_rate": 3.47,
       "share_rate": null,
@@ -626,11 +626,11 @@
       "watch_ratio": null,
       "stale": false,
       "growth": {
-        "views_delta": 41,
-        "hours": 1.592,
-        "views_per_hour": 25.75,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "views_delta": 0,
+        "hours": 0.199,
+        "views_per_hour": 0.0,
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": false,
@@ -671,8 +671,8 @@
       "period_metrics": null,
       "duration": 51.0,
       "flags": [],
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 39.2,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 39.4,
       "age_group": "1–3 dias",
       "like_rate": 0.0,
       "share_rate": null,
@@ -680,11 +680,11 @@
       "watch_ratio": null,
       "stale": false,
       "growth": {
-        "views_delta": 1,
-        "hours": 1.592,
-        "views_per_hour": 0.63,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "views_delta": 0,
+        "hours": 0.199,
+        "views_per_hour": 0.0,
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": false,
@@ -692,7 +692,7 @@
       "comparison": {
         "peers": 10,
         "group": "1–3 dias",
-        "median_views": 23.5,
+        "median_views": 24.5,
         "relative_views": 0.04,
         "status": "exploratory"
       }
@@ -719,8 +719,8 @@
       "period_metrics": null,
       "duration": 47.0,
       "flags": [],
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 24.2,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 24.4,
       "age_group": "1–3 dias",
       "like_rate": 0.77,
       "share_rate": null,
@@ -729,10 +729,10 @@
       "stale": false,
       "growth": {
         "views_delta": 0,
-        "hours": 1.592,
+        "hours": 0.199,
         "views_per_hour": 0.0,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": false,
@@ -740,8 +740,8 @@
       "comparison": {
         "peers": 10,
         "group": "1–3 dias",
-        "median_views": 23.5,
-        "relative_views": 11.06,
+        "median_views": 24.5,
+        "relative_views": 10.61,
         "status": "exploratory"
       }
     },
@@ -767,8 +767,8 @@
       "period_metrics": null,
       "duration": 55.0,
       "flags": [],
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 49.5,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 49.69,
       "age_group": "1–3 dias",
       "like_rate": 0.0,
       "share_rate": null,
@@ -776,11 +776,11 @@
       "watch_ratio": null,
       "stale": false,
       "growth": {
-        "views_delta": 1,
-        "hours": 1.592,
-        "views_per_hour": 0.63,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "views_delta": 0,
+        "hours": 0.199,
+        "views_per_hour": 0.0,
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": false,
@@ -788,8 +788,8 @@
       "comparison": {
         "peers": 10,
         "group": "1–3 dias",
-        "median_views": 23.5,
-        "relative_views": 1.96,
+        "median_views": 24.5,
+        "relative_views": 1.88,
         "status": "exploratory"
       }
     },
@@ -815,8 +815,8 @@
       "period_metrics": null,
       "duration": 51.0,
       "flags": [],
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 19.97,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 20.17,
       "age_group": "6–24h",
       "like_rate": 0.0,
       "share_rate": null,
@@ -825,10 +825,10 @@
       "stale": false,
       "growth": {
         "views_delta": 0,
-        "hours": 1.592,
+        "hours": 0.199,
         "views_per_hour": 0.0,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": false,
@@ -869,8 +869,8 @@
       "period_metrics": null,
       "duration": 54.0,
       "flags": [],
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 41.52,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 41.72,
       "age_group": "1–3 dias",
       "like_rate": 0.0,
       "share_rate": null,
@@ -879,10 +879,10 @@
       "stale": false,
       "growth": {
         "views_delta": 0,
-        "hours": 1.592,
+        "hours": 0.199,
         "views_per_hour": 0.0,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": false,
@@ -890,7 +890,7 @@
       "comparison": {
         "peers": 10,
         "group": "1–3 dias",
-        "median_views": 23.5,
+        "median_views": 24.5,
         "relative_views": 0.04,
         "status": "exploratory"
       }
@@ -902,7 +902,7 @@
       "category": "Outros / tecnologia",
       "published_at": "2026-10-23T17:01:13Z",
       "url": "https://www.youtube.com/watch?v=aKTkSW8uG18",
-      "views": 24,
+      "views": 26,
       "likes": 1,
       "comments": 0,
       "shares": null,
@@ -917,20 +917,20 @@
       "period_metrics": null,
       "duration": 49.0,
       "flags": [],
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 45.21,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 45.4,
       "age_group": "1–3 dias",
-      "like_rate": 4.17,
+      "like_rate": 3.85,
       "share_rate": null,
       "save_rate": null,
       "watch_ratio": null,
       "stale": false,
       "growth": {
-        "views_delta": 0,
-        "hours": 1.592,
-        "views_per_hour": 0.0,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "views_delta": 2,
+        "hours": 0.199,
+        "views_per_hour": 10.07,
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": false,
@@ -938,8 +938,8 @@
       "comparison": {
         "peers": 10,
         "group": "1–3 dias",
-        "median_views": 23.5,
-        "relative_views": 1.02,
+        "median_views": 24.5,
+        "relative_views": 1.06,
         "status": "exploratory"
       }
     },
@@ -965,8 +965,8 @@
       "period_metrics": null,
       "duration": 54.0,
       "flags": [],
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 37.96,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 38.16,
       "age_group": "1–3 dias",
       "like_rate": 0.0,
       "share_rate": null,
@@ -975,10 +975,10 @@
       "stale": false,
       "growth": {
         "views_delta": 0,
-        "hours": 1.592,
+        "hours": 0.199,
         "views_per_hour": 0.0,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": false,
@@ -986,8 +986,8 @@
       "comparison": {
         "peers": 10,
         "group": "1–3 dias",
-        "median_views": 23.5,
-        "relative_views": 8.38,
+        "median_views": 24.5,
+        "relative_views": 8.04,
         "status": "exploratory"
       }
     },
@@ -998,7 +998,7 @@
       "category": "Alimentos",
       "published_at": "2026-10-25T08:31:10Z",
       "url": "https://www.youtube.com/watch?v=jSFoQ-y2Dtk",
-      "views": 935,
+      "views": 942,
       "likes": 19,
       "comments": 0,
       "shares": null,
@@ -1013,20 +1013,20 @@
       "period_metrics": null,
       "duration": 44.0,
       "flags": [],
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 5.71,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 5.91,
       "age_group": "0–6h",
-      "like_rate": 2.03,
+      "like_rate": 2.02,
       "share_rate": null,
       "save_rate": null,
       "watch_ratio": null,
       "stale": false,
       "growth": {
-        "views_delta": 238,
-        "hours": 1.592,
-        "views_per_hour": 149.47,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "views_delta": 7,
+        "hours": 0.199,
+        "views_per_hour": 35.26,
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": false,
@@ -1040,7 +1040,7 @@
       "comparison": {
         "peers": 2,
         "group": "0–6h",
-        "median_views": 468.0,
+        "median_views": 471.5,
         "relative_views": 2.0,
         "status": "exploratory"
       }
@@ -1067,8 +1067,8 @@
       "period_metrics": null,
       "duration": 51.0,
       "flags": [],
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 18.2,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 18.4,
       "age_group": "6–24h",
       "like_rate": 0.0,
       "share_rate": null,
@@ -1077,10 +1077,10 @@
       "stale": false,
       "growth": {
         "views_delta": 0,
-        "hours": 1.592,
+        "hours": 0.199,
         "views_per_hour": 0.0,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": false,
@@ -1121,8 +1121,8 @@
       "period_metrics": null,
       "duration": 53.0,
       "flags": [],
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 48.21,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 48.4,
       "age_group": "1–3 dias",
       "like_rate": 0.0,
       "share_rate": null,
@@ -1131,10 +1131,10 @@
       "stale": false,
       "growth": {
         "views_delta": 0,
-        "hours": 1.592,
+        "hours": 0.199,
         "views_per_hour": 0.0,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": false,
@@ -1142,8 +1142,8 @@
       "comparison": {
         "peers": 10,
         "group": "1–3 dias",
-        "median_views": 23.5,
-        "relative_views": 0.98,
+        "median_views": 24.5,
+        "relative_views": 0.94,
         "status": "exploratory"
       }
     },
@@ -1169,8 +1169,8 @@
       "period_metrics": null,
       "duration": 52.0,
       "flags": [],
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 21.2,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 21.39,
       "age_group": "6–24h",
       "like_rate": 0.0,
       "share_rate": null,
@@ -1179,10 +1179,10 @@
       "stale": false,
       "growth": {
         "views_delta": 0,
-        "hours": 1.592,
+        "hours": 0.199,
         "views_per_hour": 0.0,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": false,
@@ -1223,8 +1223,8 @@
       "period_metrics": null,
       "duration": 45.0,
       "flags": [],
-      "observed_at": "2026-10-25T14:13:34.831742+00:00",
-      "age_hours": 43.78,
+      "observed_at": "2026-10-25T14:25:29.539365+00:00",
+      "age_hours": 43.98,
       "age_group": "1–3 dias",
       "like_rate": 0.0,
       "share_rate": null,
@@ -1233,10 +1233,10 @@
       "stale": false,
       "growth": {
         "views_delta": 0,
-        "hours": 1.592,
+        "hours": 0.199,
         "views_per_hour": 0.0,
-        "from": "2026-10-25T12:38:02.452058+00:00",
-        "to": "2026-10-25T14:13:34.831742+00:00",
+        "from": "2026-10-25T14:13:34.831742+00:00",
+        "to": "2026-10-25T14:25:29.539365+00:00",
         "counter_correction": false
       },
       "watch_ratio_valid": false,
@@ -1244,8 +1244,8 @@
       "comparison": {
         "peers": 10,
         "group": "1–3 dias",
-        "median_views": 23.5,
-        "relative_views": 0.13,
+        "median_views": 24.5,
+        "relative_views": 0.12,
         "status": "exploratory"
       }
     }
@@ -1267,7 +1267,7 @@
     {
       "title": "Sinal de compartilhamento",
       "platform": "instagram",
-      "evidence": "2 compartilhamentos / 91 contas alcançadas (2.2%). Testar um mecanismo relacionado.",
+      "evidence": "2 compartilhamentos / 93 contas alcançadas (2.15%). Testar um mecanismo relacionado.",
       "confidence": "Baixa · hipótese para teste",
       "action": "Criar experimento com uma variável; acompanhar uma publicação de teste.",
       "reason": "Sinal observacional, sem promessa de efeito causal.",
@@ -1278,21 +1278,21 @@
       "category": "Casa"
     },
     {
-      "title": "Explorar alimentos",
+      "title": "Explorar casa",
       "platform": "youtube",
-      "evidence": "“Como a lata segura o gás? O segredo está na vedação”: 935 views; faixa de idade 0–6h, 2 publicações na faixa.",
+      "evidence": "“Indução: a panela gera calor, mas o vidro também esquenta”: 348 views; faixa de idade 6–24h, 5 publicações na faixa.",
       "confidence": "Baixa · sinal exploratório",
       "action": "Pesquisar outra curiosidade do mesmo universo e comparar nas primeiras 24h.",
       "reason": "Contador, amostra e distribuição não provam preferência consolidada.",
       "evidence_ids": [
-        "jSFoQ-y2Dtk"
+        "JBAeekrpkrs"
       ],
-      "category": "Alimentos"
+      "category": "Casa"
     },
     {
       "title": "Explorar alimentos",
       "platform": "instagram",
-      "evidence": "“Como a lata segura o gás? O segredo está na vedação”: 645 views; faixa de idade 0–6h, 2 publicações na faixa.",
+      "evidence": "“Como a lata segura o gás? O segredo está na vedação”: 694 views; faixa de idade 0–6h, 2 publicações na faixa.",
       "confidence": "Baixa · sinal exploratório",
       "action": "Pesquisar outra curiosidade do mesmo universo e comparar nas primeiras 24h.",
       "reason": "Contador, amostra e distribuição não provam preferência consolidada.",
@@ -1327,7 +1327,7 @@
       "title": "Como a geladeira tira calor de dentro?",
       "category": "Casa",
       "angle": "Uma transferência de calor com exemplo concreto.",
-      "why": "2 compartilhamentos / 91 contas alcançadas (2.2%). Testar um mecanismo relacionado.",
+      "why": "2 compartilhamentos / 93 contas alcançadas (2.15%). Testar um mecanismo relacionado.",
       "evidence_ids": [
         "18037148273846633"
       ],
@@ -1342,13 +1342,32 @@
       ]
     },
     {
+      "id": "22805205f865",
+      "title": "Como o fone reduz o barulho ao redor?",
+      "category": "Casa",
+      "angle": "Um mecanismo físico e seu limite.",
+      "why": "“Indução: a panela gera calor, mas o vidro também esquenta”: 348 views; faixa de idade 6–24h, 5 publicações na faixa.",
+      "evidence_ids": [
+        "JBAeekrpkrs"
+      ],
+      "confidence": "Exploratório · pesquisar antes de produzir",
+      "hypothesis": "Um objeto familiar com mecanismo demonstrável pode gerar interesse; validar após publicar.",
+      "metric": "Compartilhamentos / alcance no Instagram; engajamento e retenção YT quando disponíveis.",
+      "brief": "Criar um short PT-BR investigando: Como o fone reduz o barulho ao redor? Ângulo: Um mecanismo físico e seu limite. Usar fontes verificáveis; mostrar um mecanismo por cena; entregar a resposta ao gancho; sem números ou benefícios não documentados. Rascunho, sem autorização de upload.",
+      "hooks": [
+        "Como o fone reduz o barulho ao redor?",
+        "O detalhe por trás disso aparece quando você olha de perto.",
+        "Parece simples. O mecanismo por trás merece uma explicação."
+      ]
+    },
+    {
       "id": "103c5fa796f7",
       "title": "Por que a embalagem de salgadinho parece cheia de ar?",
       "category": "Alimentos",
       "angle": "Investigar atmosfera da embalagem e proteção física, sem benefício de saúde.",
-      "why": "“Como a lata segura o gás? O segredo está na vedação”: 935 views; faixa de idade 0–6h, 2 publicações na faixa.",
+      "why": "“Como a lata segura o gás? O segredo está na vedação”: 694 views; faixa de idade 0–6h, 2 publicações na faixa.",
       "evidence_ids": [
-        "jSFoQ-y2Dtk"
+        "18136751125653779"
       ],
       "confidence": "Exploratório · pesquisar antes de produzir",
       "hypothesis": "Um objeto familiar com mecanismo demonstrável pode gerar interesse; validar após publicar.",
@@ -1356,25 +1375,6 @@
       "brief": "Criar um short PT-BR investigando: Por que a embalagem de salgadinho parece cheia de ar? Ângulo: Investigar atmosfera da embalagem e proteção física, sem benefício de saúde. Usar fontes verificáveis; mostrar um mecanismo por cena; entregar a resposta ao gancho; sem números ou benefícios não documentados. Rascunho, sem autorização de upload.",
       "hooks": [
         "Por que a embalagem de salgadinho parece cheia de ar?",
-        "O detalhe por trás disso aparece quando você olha de perto.",
-        "Parece simples. O mecanismo por trás merece uma explicação."
-      ]
-    },
-    {
-      "id": "a410d98860dc",
-      "title": "O que muda no café quando ele é descafeinado?",
-      "category": "Alimentos",
-      "angle": "Investigar um processo industrial sem alegações de saúde.",
-      "why": "“Como a lata segura o gás? O segredo está na vedação”: 645 views; faixa de idade 0–6h, 2 publicações na faixa.",
-      "evidence_ids": [
-        "18136751125653779"
-      ],
-      "confidence": "Exploratório · pesquisar antes de produzir",
-      "hypothesis": "Um objeto familiar com mecanismo demonstrável pode gerar interesse; validar após publicar.",
-      "metric": "Compartilhamentos / alcance no Instagram; engajamento e retenção YT quando disponíveis.",
-      "brief": "Criar um short PT-BR investigando: O que muda no café quando ele é descafeinado? Ângulo: Investigar um processo industrial sem alegações de saúde. Usar fontes verificáveis; mostrar um mecanismo por cena; entregar a resposta ao gancho; sem números ou benefícios não documentados. Rascunho, sem autorização de upload.",
-      "hooks": [
-        "O que muda no café quando ele é descafeinado?",
         "O detalhe por trás disso aparece quando você olha de perto.",
         "Parece simples. O mecanismo por trás merece uma explicação."
       ]
@@ -1419,6 +1419,17 @@
       },
       "instagram": {
         "views": 1335,
+        "publications": 7
+      }
+    },
+    {
+      "at": "2026-10-25T14:25:29.539365+00:00",
+      "youtube": {
+        "views": 2139,
+        "publications": 17
+      },
+      "instagram": {
+        "views": 1407,
         "publications": 7
       }
     }
